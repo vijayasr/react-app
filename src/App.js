@@ -32,7 +32,7 @@ function App() {
         <span>Income:</span>
        <select value={income}onChange={handleIncomeChange} >
          <option value= "high">High</option>
-         <option value= "mid">Mid</option>
+         <option value= "mid">Mid22</option>
          <option value= "low">Lowkwddssddsdsdsd</option>
        </select>
        <input type="submit" valur="submit"></input>
